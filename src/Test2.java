@@ -11,6 +11,8 @@ public class Test2 {
 		System.out.println("asas3");
 		System.out.println("asas4");
 		System.out.println("asas5");
+		System.out.println("asas6");
+		System.out.println("asas7");
 	}
 
 }
