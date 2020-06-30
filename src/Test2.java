@@ -9,6 +9,8 @@ public class Test2 {
 		System.out.println("asas2");
 		System.out.println("asas2");
 		System.out.println("asas3");
+		System.out.println("asas4");
+		System.out.println("asas5");
 	}
 
 }
