@@ -5,6 +5,10 @@ public class Test2 {
 		System.out.println("as");
 		System.out.println("asas");
 		System.out.println("asas");
+		System.out.println("asas1");
+		System.out.println("asas2");
+		System.out.println("asas2");
+		System.out.println("asas3");
 	}
 
 }
