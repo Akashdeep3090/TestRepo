@@ -6,7 +6,7 @@ public class test {
 		System.out.println("detete1");
 		System.out.println("detete2");
 
-		System.out.println("detete9");
+		System.out.println("detete10000");
 
 		
 
