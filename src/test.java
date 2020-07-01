@@ -5,6 +5,7 @@ public class test {
 		System.out.println("detete");
 		System.out.println("detete1");
 		System.out.println("detete2");
+		System.out.println("detete9");
 	}
 
 }
